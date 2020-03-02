@@ -196,3 +196,4 @@ document.getElementById('demo').innerHTML = text;
 // Statement 3 increases a value (i++) each time the code block in the loop has been executed.
 
 // updated?
+// updated again?
